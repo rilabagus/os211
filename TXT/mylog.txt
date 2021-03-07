@@ -8,4 +8,11 @@ ZCZC W00 10 L04 GitHub Pages: setting, etc.
 ZCZC W01 80 L02 Zoom Sychronous Class (Monday 15.40-17.00)
 ZCZC w01 30 L05 GSGS Debian
 ZCZC W01 120 L08 coba coba git di debian
+ZCZC W01  20 L04 GitHub Pages: ATM
+ZCZC w01 240 L11 Assignment #1
+ZCZC W01  30 L12 Assignment #2
+ZCZC W01  40 L13 Assignment #3
+ZCZC W01  20 L14 Assignment #4
+ZCZC W01  15 L15 Assignment #5
+ZCZC W01   5 L16 Assignment #6
 
