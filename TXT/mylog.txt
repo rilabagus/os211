@@ -1,8 +1,43 @@
 # Log Format
-# ZCZC WEEK# Minutes LogCode Description
-# Log Code: https://osp4diss.vlsm.org/ETC/logCodes.txt
+<<<<<<< HEAD
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related (sign Up)
 ZCZC W00 80 L02 Zoom Sychronous Class (Monday 15.40-17.00)
 ZCZC W00 10 L04 GitHub Pages: setting, etc.
 ZCZC W01 80 L02 Zoom Sychronous Class (Monday 15.40-17.00)
 ZCZC w01 30 L05 GSGS Debian
+ZCZC W01 120 L08 coba coba git di debian
+ZCZC W01  20 L04 GitHub Pages: ATM
+ZCZC w01 240 L11 Assignment #1
+ZCZC W01  30 L12 Assignment #2
+ZCZC W01  40 L13 Assignment #3
+ZCZC W01  20 L14 Assignment #4
+ZCZC W01  15 L15 Assignment #5
+ZCZC W01  15 L16 Assignment #6
+ZCZC W01  90 L17 Assignment #7
+ZCZC W01  90 L18 Assignment #8
+ZCZC W02 120 L05 GSGS related: GSGS about Cybersecurity and protection
+ZCZC W02  120 L11 Assignment #1
+ZCZC W02  30 L12 Assignment #2
+ZCZC W02  10 L13 Assignment #3
+ZCZC W02   5 L14 Assignment #4
+ZCZC W02   5 L15 Assignment #5
+ZCZC W02  30 L16 Assignment #6
+ZCZC W02 240 L17 Assignment #7
+ZCZC W02   8 L18 Assignment #8
+ZCZC W02   7 L19 Assignment #9
+ZCZC W02   5 L20 Assignment #10
+ZCZC W03  120 L11 Assignment #1
+ZCZC W03  30 L12 Assignment #2
+ZCZC W03   5 L13 Assignment #3
+ZCZC W03  30 L14 Assignment #4
+ZCZC W03 150 L15 Assignment #5
+ZCZC W03   5 L16 Assignment #6
+ZCZC W03  50 L17 Assignment #7
+ZCZC W03   4 L18 Assignment #8
+ZCZC W03   1 L19 Assignment #9
+ZCZC W03 150 L05 GSGS related
+ZCZC W03 100 L02 ZOOM related: W03 zoom meeting on wednesday 10.00-11.40
+ZCZC W03   5 L22 YouTube: watching What is TAR?
+ZCZC W03  30 L23 Discord: Quiz
