@@ -41,3 +41,12 @@ ZCZC W03 150 L05 GSGS related
 ZCZC W03 100 L02 ZOOM related: W03 zoom meeting on wednesday 10.00-11.40
 ZCZC W03   5 L22 YouTube: watching What is TAR?
 ZCZC W03  30 L23 Discord: Quiz
+ZCZC W04  45 L11 Assignment #1
+ZCZC W04  55 L12 Assignment #2
+ZCZC W04  301 L13 Assignment #3
+ZCZC W04 14 L14 Assignment #4
+ZCZC W04  13 L15 Assignment #5
+ZCZC W04  35 L16 Assignment #6
+ZCZC W04   2 L17 Assignment #7
+ZCZC W04   2 L18 Assignment #8
+ZCZC W04 243 L05 GSGS related
