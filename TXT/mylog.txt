@@ -50,3 +50,12 @@ ZCZC W04  35 L16 Assignment #6
 ZCZC W04   2 L17 Assignment #7
 ZCZC W04   2 L18 Assignment #8
 ZCZC W04 182 L05 GSGS related
+ZCZC W05  75 L02 ZOOM related: W05 zoom meeting on wednesday 10am.
+ZCZC W05 213 L05 GSGS related
+ZCZC W05 114 L11 Assignment #1
+ZCZC W05  42 L12 Assignment #2
+ZCZC W05 156 L13 Assignment #3
+ZCZC W05  25 L14 Assignment #4
+ZCZC W05  10 L15 Assignment #5
+ZCZC W05   2 L16 Assignment #6
+
