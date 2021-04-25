@@ -58,4 +58,12 @@ ZCZC W05 156 L13 Assignment #3
 ZCZC W05  25 L14 Assignment #4
 ZCZC W05  10 L15 Assignment #5
 ZCZC W05   2 L16 Assignment #6
+ZCZC W06 115 L02 ZOOM related
+ZCZC W06  100 L11 Assignment #1
+ZCZC W06  20 L12 Assignment #2
+ZCZC W06  161 L13 Assignment #3
+ZCZC W06   16 L14 Assignment #4
+ZCZC W06   10 L15 Assignment #5
+ZCZC W06   3 L16 Assignment #6
+
 
