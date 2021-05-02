@@ -65,5 +65,14 @@ ZCZC W06  161 L13 Assignment #3
 ZCZC W06   16 L14 Assignment #4
 ZCZC W06   10 L15 Assignment #5
 ZCZC W06   3 L16 Assignment #6
+ZCZC W07 110 L02 ZOOM related: W07 zoom meeting on monday 10am.
+ZCZC W07  25 L07 Demo related
+ZCZC W07  90 L11 Assignment #1
+ZCZC W07  15 L12 Assignment #2
+ZCZC W07  50 L13 Assignment #3
+ZCZC W06  30 L14 Assignment #4
+ZCZC W06   6 L15 Assignment #5
+ZCZC W06   2 L16 Assignment #6
+ZCZC W07 150 L05 GSGS related
 
 
