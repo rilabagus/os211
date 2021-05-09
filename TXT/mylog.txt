@@ -70,9 +70,16 @@ ZCZC W07  25 L07 Demo related
 ZCZC W07  90 L11 Assignment #1
 ZCZC W07  15 L12 Assignment #2
 ZCZC W07  50 L13 Assignment #3
-ZCZC W06  30 L14 Assignment #4
-ZCZC W06   6 L15 Assignment #5
-ZCZC W06   2 L16 Assignment #6
+ZCZC W07  30 L14 Assignment #4
+ZCZC W07   6 L15 Assignment #5
+ZCZC W07   2 L16 Assignment #6
 ZCZC W07 150 L05 GSGS related
+ZCZC W08 110 L02 ZOOM related
+ZCZC W08  60 L11 Assignment #1
+ZCZC W08 116 L12 Assignment #2
+ZCZC W08 195 L13 Assignment #3
+ZCZC W08  21 L14 Assignment #4
+ZCZC W08   8 L15 Assignment #5
+ZCZC W08   2 L16 Assignment #6
 
 
